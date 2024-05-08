@@ -1,7 +1,7 @@
 
 # Mechanical Vibrations - Multiple Degrees of Freedom
 
-This programme is meant to calculate any multiple degrees of freedom for mechanical vibrations problems.
+This programme/project calculates the vibrational modes and frequencies of multiple degrees of freedom of any size. The frequencies and modal shapes give an idea of how the objects deform.
 
 
 
